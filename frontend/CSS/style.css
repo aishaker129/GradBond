@@ -23,11 +23,7 @@
     margin-right: 9px;
 }
 .service{
-<<<<<<< HEAD
-    width: 300px;
-=======
     width: 250px;
->>>>>>> main
     height: 70px;
     background-color: #38224B;
     color: #fff;
@@ -35,12 +31,6 @@
     font-size: 28px;
     text-decoration: none;
 }
-<<<<<<< HEAD
-.service{
-    width: 200px;
-}
-=======
->>>>>>> main
 .service:hover{
     background-color: yellow;
     color: black;
@@ -54,11 +44,8 @@
 }
 .writep{
     width: 100%;
-<<<<<<< HEAD
-=======
     text-align: justify;
     text-justify: inter-word;
->>>>>>> main
 }
 .my{
     background-color: #F3E5F2;

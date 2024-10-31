@@ -36,8 +36,6 @@
     margin-left: .75em;
 }
 
-<<<<<<< HEAD
-=======
 .login-banner{
     justify-content: center;
     align-items: center;
@@ -47,34 +45,22 @@ input{
     padding-left: 20px;
 }
 
->>>>>>> main
 .over {
     background-image: url('../images/Mask.png');
     background-size: cover;
     background-position: center;
     width: 100%;
-<<<<<<< HEAD
-    height: 550px;
-=======
     height: 100%;
->>>>>>> main
     /* display: flex; */
     /* flex-direction: column; */
     justify-content: space-between;
     text-align: center;
-<<<<<<< HEAD
-    padding: 50px;
-=======
     padding: 70px;
->>>>>>> main
     border-radius: 10px;
     color: white;
     font-family: Arial, sans-serif;
     position: relative;
-<<<<<<< HEAD
-=======
     /* align-items: center; */
->>>>>>> main
 }
 .head{
     margin-top: 270px;
